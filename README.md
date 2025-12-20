@@ -2,12 +2,12 @@
 <!--      GitHub Profile      -->
 <!-- ========================= -->
 
-<h1 align="center">Hi, I'm Angel 👋</h1>
+<h1 align="center">Hi, I'm Angel!</h1>
 <h3 align="center">Informatics Engineering Student</h3>
 
 <p align="center">
   🎓 Undergraduate Student in Informatics Engineering <br/>
-  🏫 Studied at the [Universitas Bengkulu](https://www.instagram.com/unibofficial?igsh=ejl3bGExZ2dkOWF0)<br/>
+  🏫 Studied at the Universitas Bengkulu <br/>
   🌱 Learning programming, problem solving, and software development
 
 ---
