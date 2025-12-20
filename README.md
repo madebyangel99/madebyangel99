@@ -7,9 +7,9 @@
 
 <p align="center">
   🎓 Undergraduate Student in Informatics Engineering <br/>
-  🏫 Studied at the Universitas Bengkulu <br/>
-  🌱 Learning programming, problem solving, and software development
-
+  🏫 Studied at the <a href="https://instagram.com/unibofficial">Universitas Bengkulu</a> <br/>
+  🌱 Learning programming, problem solving, and software development<br/>
+  
 ---
 
 ## ✨ About Me
