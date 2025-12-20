@@ -21,34 +21,52 @@
 ---
 
 ## 🛠️ Tech Stack (Learning)
-<p>
-  <img src="https://img.shields.io/badge/C-Programming-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-Programming-004482?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Platform-181717?style=flat&logo=github&logoColor=white"/>
-</p>
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 🌐 Connect with Me
-<a href="https://www.instagram.com/arahmatun.a?igsh=bzZpeG5uZXY3ZHBj">
-  <img src="https://img.shields.io/badge/Instagram-@arahmatun.a-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+### 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arahmatun.a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angelitarannisa@gmail.com) 
 
 ---
 
 ## 📌 Fun Facts
 - 🌾 In my free time, I enjoy playing Roblox and farming games
 - 📖 I enjoy learning step by step and improving consistently  
-- 🌱 Still a learner, but always curious and motivated  
+- 🌱 Still a learner, but always curious and motivated
+- 🎧 I also enjoy listening to music on Spotify
+
+![Roblox](https://img.shields.io/badge/Roblox-%230a0b0b.svg?style=for-the-badge&logo=Roblox&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=madebyangel99&show_icons=true&theme=radical)
-
+![](https://github-readme-stats.vercel.app/api?username=madebyangel99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=madebyangel99&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madebyangel99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=madebyangel99&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=madebyangel99&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <p align="center">
   ✨ <i>"Learning today, improving tomorrow."</i> ✨
